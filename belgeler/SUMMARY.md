@@ -1,1 +1,2 @@
 - [Şablon](README.md)
+- [Destekçiler](destekciler.md)
