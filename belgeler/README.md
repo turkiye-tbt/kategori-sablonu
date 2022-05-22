@@ -1,0 +1,2 @@
+# Şablon
+Bu bir şablondur.
